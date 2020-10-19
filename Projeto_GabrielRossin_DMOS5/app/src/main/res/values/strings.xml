@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Projeto_GabrielRossin_DMOS5</string>
+
+    <string name="menu_pesq">Nome do personagem</string>
+    <string name="btn_busca">Buscar</string>
+
+    <string name="resNome">Nome</string>
+    <string name="resCasa">Casa</string>
+    <string name="resPatronos">Patronos</string>
+    <string name="resEspécie">Espécie</string>
+
+
+    <string name="explicacao_permissao">A busca do endereço depende do acesso a internet, sem essa permissão o aplicativo não consegue recuperar a informação desejada.</string>
+    <string name="botao_fornecer">Fornecer</string>
+    <string name="botao_nao_fornecer">Agora não</string>
+</resources>
